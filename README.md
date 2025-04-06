@@ -19,3 +19,6 @@
 - If you are having trouble getting the script to display correctly, try running it in a terminal to see any error messages that may be output.
 - It is highly reccomended to use a [nerd font](https://www.nerdfonts.com) for the icons.
 - Feel free to copy, change or distribute as you wish!
+
+## Example
+![Demo](screenshots/demo.png)
